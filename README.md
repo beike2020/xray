@@ -139,6 +139,8 @@
 
 ## ⚡️ 进阶使用
 
+https://www.yuque.com/books/share/c91731d0-9c9d-41de-8442-bc4de702297d/gha49g#bmp9hzskgyd5ttcd9x2p74xncvngd5wb
+
 下列高级用法请查看 https://docs.xray.cool/ 使用。
 
  - 修改配置文件
@@ -166,5 +168,3 @@
 4. 微信群: 微信扫描以下二维码加群
 
 <img src="https://ctstack-oss.oss-cn-beijing.aliyuncs.com/xray/ctstack-group-qr-code.jpg" height="200px">
-
-
